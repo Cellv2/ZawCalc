@@ -9,7 +9,11 @@ const damageSplitData = {
         impact: 0.7,
         puncture: 0
     },
-
+    Balla: {
+        slash: 0.35,
+        impact: 0.05,
+        puncture: 0.6
+    }
 }
 
 const gripNoteData = {
