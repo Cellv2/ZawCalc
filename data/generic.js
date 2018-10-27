@@ -41,5 +41,9 @@ const gripNoteData = {
     Kwath: "+Damage -Speed",
     Laka: "Balanced Damage & Speed",
     "Plague Akwin": "+Speed -Damage",
-    Peye: "+Speed -Damage"
+    Peye: "+Speed -Damage",
+    Kroostra: "+Damage -Speed",
+    "Plague Bokwin": "+Damage -Speed",
+    Jayap: "Balanced Damage & Speed",
+    Seekalla: "+Speed -Damage"
 };
