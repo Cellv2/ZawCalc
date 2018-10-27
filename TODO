@@ -1,0 +1,40 @@
+Front End:
+    HTML:
+        ☐ On 'Grip' hover, say +damage -speed etc.
+
+    CSS:
+
+    
+    JavaScript:
+
+
+
+
+
+
+
+
+
+
+NOTES:
+
+Have a dropdown with a checkbox of what components you want to see? Perhaps just the strikes?
+- Have a select/deselect all option
+
+Zaw compendium
+- https://docs.google.com/spreadsheets/d/1oCoeJnIi1LfSZoXhRdVSP1_hTlgnt0Zdb0MsvB-zvhU/edit#gid=1066975310
+
+All two-handed Zaws get an additional damage bonus after adding all parts together (including the gilding bonus, if applicable)
+- +18% for polearms and staves.
+- +70% for hammers and heavy blades.
+
+
+Range, crit chance, crit damage, status, damage, attack speed
+
+
+A Gilded Zaw will have all of the functionality available to other weapons, and it will have enhanced stats over the newly-built version of the Zaw
+- It gains +10% critical chance, +0.6x Critical Multiplier, +10% Status Chance, and +12 base damage, which is spread proportionally between the weapons base damage types.
+- Gilded Zaws are also able to earn Mastery Rank points.
+
+- Check Exodia Arcane interactions
+
