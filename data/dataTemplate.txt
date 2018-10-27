@@ -1,0 +1,22 @@
+const data = {
+    "strike": "Cyath",
+    "grip": "Kwath",
+    "link": {
+        "Ruhang II": {},
+        "Ekwana Ruhang II": {},
+        "Vargeet Ruhang II": {},
+        "Ruhang": {},
+        "Ekwana Ruhang": {},
+        "Ekwana II Ruhang": {},
+        "Vargeet Ruhang": {},
+        "Vargeet II Ruhang": {},
+        "Jai": {},
+        "Ekwana Jai": {},
+        "Ekwana II Jai": {},
+        "Vargeet Jai": {},
+        "Vargeet II Jai": {},
+        "Jai II": {},
+        "Ekwana Jai II": {},
+        "Vargeet Jai II": {}
+    }
+};

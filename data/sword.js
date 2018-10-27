@@ -1,0 +1,178 @@
+const swordData = [
+    {
+        strike: "Cyath",
+        grip: "Kwath",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Cyath",
+        grip: "Laka",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Cyath",
+        grip: "Plague Akwin",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Cyath",
+        grip: "Peye",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Kronsh",
+        grip: "Kwath",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Kronsh",
+        grip: "Laka",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Kronsh",
+        grip: "Plague Akwin",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+    {
+        strike: "Kronsh",
+        grip: "Peye",
+        link: {
+            "Ruhang II": {},
+            "Ekwana Ruhang II": {},
+            "Vargeet Ruhang II": {},
+            Ruhang: {},
+            "Ekwana Ruhang": {},
+            "Ekwana II Ruhang": {},
+            "Vargeet Ruhang": {},
+            "Vargeet II Ruhang": {},
+            Jai: {},
+            "Ekwana Jai": {},
+            "Ekwana II Jai": {},
+            "Vargeet Jai": {},
+            "Vargeet II Jai": {},
+            "Jai II": {},
+            "Ekwana Jai II": {},
+            "Vargeet Jai II": {}
+        }
+    },
+];
