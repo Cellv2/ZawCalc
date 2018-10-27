@@ -11,7 +11,7 @@ const damageSplitData = {
     },
     Balla: {
         slash: 0.35,
-        impact: 0.05,
+        impact: 0.05
     },
     Dehtat: {
         slash: 0.4,
@@ -21,15 +21,20 @@ const damageSplitData = {
     "Plague Kripath": {
         slash: 0.21,
         impact: 0.14,
-        puncture: 0.36
+        puncture: 0.36,
         viral: 0.29
+    },
+    "Plague Keewar": {
+        slash: 0.33,
+        impact: 0.28,
+        puncture: 0.14,
+        viral: 0.25
     }
-}
+};
 
 const gripNoteData = {
     Kwath: "+Damage -Speed",
     Laka: "Balanced Damage & Speed",
     "Plague Akwin": "+Speed -Damage",
-    "Peye": "+Speed -Damage",
-
-}
+    Peye: "+Speed -Damage"
+};
