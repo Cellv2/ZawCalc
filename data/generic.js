@@ -29,6 +29,11 @@ const damageSplitData = {
         impact: 0.28,
         puncture: 0.14,
         viral: 0.25
+    },
+    "Mewan": {
+        slash: 0.4,
+        impact: 0.25,
+        puncture: 0.35
     }
 };
 
