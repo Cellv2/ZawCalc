@@ -30,10 +30,15 @@ const damageSplitData = {
         puncture: 0.14,
         viral: 0.25
     },
-    "Mewan": {
+    Mewan: {
         slash: 0.4,
         impact: 0.25,
         puncture: 0.35
+    },
+    Ooltha: {
+        slash: 0.5,
+        impact: 0.1,
+        puncture: 0.4
     }
 };
 
