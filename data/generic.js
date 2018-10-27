@@ -12,7 +12,17 @@ const damageSplitData = {
     Balla: {
         slash: 0.35,
         impact: 0.05,
-        puncture: 0.6
+    },
+    Dehtat: {
+        slash: 0.4,
+        impact: 0.1,
+        puncture: 0.5
+    },
+    "Plague Kripath": {
+        slash: 0.21,
+        impact: 0.14,
+        puncture: 0.36
+        viral: 0.29
     }
 }
 
